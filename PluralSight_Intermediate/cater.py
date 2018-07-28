@@ -12,5 +12,8 @@ e = r.random()
 
 g = r.random()
 
+h = r.random()
+
+
 print(i)
 print(b)
