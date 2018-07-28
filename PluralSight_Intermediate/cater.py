@@ -6,5 +6,7 @@ b = r.random()
 
 c = r.random()
 
+d = r.random()
+
 print(i)
 print(b)
