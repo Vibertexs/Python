@@ -10,8 +10,5 @@ d = r.random()
 
 e = r.random()
 
-g = r.random()
-
-
 print(i)
 print(b)
