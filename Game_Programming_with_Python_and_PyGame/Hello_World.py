@@ -9,7 +9,7 @@ screen = pygame.display.set_mode(windowSize)
 # helloWorld =  myriadProFont.render("Hello World", 1, (255,0, 255), (255,255,255))
 
 
-# helloWorld =  pygame.image.load("C:\pngs abc\Small-mario.png")
+# # helloWorld =  pygame.image.load("C:\pngs abc\Small-mario.png")
 helloWorld =  pygame.image.load("static\Small-mario.png")
 
 helloWorldSize = helloWorld.get_size() #returns is as a tuple
